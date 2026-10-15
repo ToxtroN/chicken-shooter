@@ -1,0 +1,15 @@
+# Godot
+.godot/
+*.import.tmp
+# сборки
+build/
+*.zip
+*.apk
+*.aab
+# ключи подписи — НИКОГДА не выкладывать
+keys/
+*.keystore
+*.jks
+# ОС
+.DS_Store
+Thumbs.db
